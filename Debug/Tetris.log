@@ -1,0 +1,3 @@
+﻿  Tetris.cpp
+E:\C++\Projects\Tetris\Tetris\Tetris\Tetris.cpp(153): warning C4715: 'Rotate': not all control paths return a value
+  Tetris.vcxproj -> E:\C++\Projects\Tetris\Tetris\Tetris\Debug\Tetris.exe

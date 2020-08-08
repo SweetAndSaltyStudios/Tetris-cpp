@@ -1,0 +1,2 @@
+E:\C++\Projects\Tetris\Tetris\Tetris\Debug\Tetris.exe
+E:\C++\Projects\Tetris\Tetris\Tetris\Debug\Tetris.pdb
